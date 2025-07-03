@@ -15,7 +15,7 @@ This project explores patient admission data to help hospitals identify trends a
 2. What is the distribution of gender among admitted patients?  
 3. Which age group is most frequently admitted?  
 4. What are the most common admission types?  
-5. Which departments have the highest number of admissions?  
+5. Which departments have the highest number of admissions?
 6. On which day of the week do most patients get admitted?  
 7. What percentage of patients have visited before?  
 8. Is there a difference in admission types across genders?  
