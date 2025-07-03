@@ -31,8 +31,8 @@ This project explores patient admission data to help hospitals identify trends a
 
 ## 📁 Files
 
-- `Hospital_Admission_EDA.ipynb`: Main EDA notebook
-- `Cleaned_Hospital_Admissions.csv`: Cleaned dataset
+- `Hospital_Admission_EDA.ipynb`: Main EDA notebook (https://www.kaggle.com/datasets/ashishsahani/hospital-admissions-data)
+- `Cleaned_Hospital_Admissions.csv`: Cleaned dataset (Uploaded in the Github)
 - `README.md`: Project summary and details
 
 ---
